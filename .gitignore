@@ -1,0 +1,22 @@
+# deps baixados e artefatos Fabric
+_deps/
+env.sh
+organizations/
+crypto-config/
+wallet/
+*.block
+*.tx
+
+# Node/Go/IDE
+node_modules/
+dist/
+build/
+vendor/
+coverage/
+.vscode/
+.idea/
+*.log
+
+# Docker
+*.env
+.docker
